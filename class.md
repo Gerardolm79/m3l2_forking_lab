@@ -1,0 +1,3 @@
+Gerardo
+Backend development
+Mexico
